@@ -1,0 +1,26 @@
+@import "../node_modules/antd/dist/antd.css";
+.root{
+    height:100%;
+    overflow:hidden;
+}
+.App {
+  text-align: center;
+  height:100%;
+}
+.App-header h1 {
+  color: whitesmoke;
+}
+
+.App-content {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
